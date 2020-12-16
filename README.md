@@ -32,4 +32,4 @@ Method 2. Use Word2Vec and Tree-based models to do prediction.
 
 #### Kaggle submission result
 
-![subsmission result](result/word2vec_reviews.jpg)
+![subsmission result](https://github.com/vivianchang2019/IMDB_word2vec_kaggle/blob/master/result/word2vec_reviews.JPG?raw=true)
